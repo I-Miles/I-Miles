@@ -2,10 +2,7 @@ Hello my name is Miles.
 
 -  I’m currently working on front-end.
 -  I’m currently learning HTML, CSS, JavaScript and Python.
-<div>
-  <img src="miles.gif">
-</div>
-
+   
 <hr>
 
 <div style="display: inline_block"><br>
