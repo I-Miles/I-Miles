@@ -3,8 +3,8 @@
 ## My name is miles:
 
 -  I’m currently working on back-end and cybersecurity.
--  I’m currently learning HTML, CSS, JavaScript and Python.
--  my main stack is cybersecurity and back-end
+-  I’m currently learning JavaScript, Python and C++.
+-  my main stack is cybersecurity.
    
 <hr>
 
