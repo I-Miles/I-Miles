@@ -8,9 +8,15 @@
    
 <hr>
 
-## My Stack:
+## IDE's/OS:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,vscode,pycharm,github,kali,arch,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vscode,pycharm,clion,github,kali,arch,linux,windows&theme=dark" />
+
+<hr>
+
+## Languages:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,cpp&theme=dark" />
 
 <hr>
 
