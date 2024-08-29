@@ -10,13 +10,13 @@
 
 ## IDE's/OS:
 
-<img src="https://skillicons.dev/icons?i=react,vscode,pycharm,clion,github,kali,arch,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,kali,arch,linux,windows,pycharm,clion&theme=dark" />
 
 <hr>
 
 ## Languages:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,js,python,react,mysql&theme=dark" />
 
 <hr>
 
