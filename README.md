@@ -16,7 +16,7 @@
 
 ## Languages:
 
-<img src="https://skillicons.dev/icons?i=html,css,cpp,js,python,react,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,react,mysql&theme=dark" />
 
 <hr>
 
