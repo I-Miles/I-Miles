@@ -3,8 +3,8 @@
 ## My name is miguel:
 
 -  I’m currently working on back-end and cybersecurity.
--  I’m currently learning JavaScript, Python and C++.
--  my main stack is cybersecurity.
+-  I’m currently learning about pentest, Exploit development and OpSec.
+-  my main stack is Red Team.
    
 <hr>
 
